@@ -6,9 +6,13 @@ passionate about mobile app development
 ### About me
 ---------------------------------------
 I am a mobile application developer. Dart, Flutter, Java, C, and C++, are the programming languages I am good at. I love to learn and build something new, productive, innovative, and creative.
-
-
-* 🌍  I'm based in Chittagong,Bangladesh
+- **I am interested in Mobile application development **
+- 🌱 I’m currently learning kotlin
+- 👯 I’m looking forward to collaborating on open-source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- 📖 I love to read novels, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.
+  
+* 🌍  I'm based in Chittagong, Bangladesh
 * ✉️  You can contact me at [Oliulhasnatrafi@gamail.com](mailto:Oliulhasnatrafi@gamail.com)
 * 🧠  I'm learning Kotlin
 * ⚡  Food and coding👨‍💻 are the reasons to live.
