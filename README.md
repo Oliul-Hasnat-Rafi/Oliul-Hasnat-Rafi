@@ -9,7 +9,7 @@ I am a mobile application developer. Dart, Flutter, Java, C, and C++, are the pr
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - 📖 I love to read novels, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.
 * 🌍  I'm based in Chittagong, Bangladesh
-* ✉️  You can contact me at [Oliulhasnatrafi@gamail.com](mailto:Oliulhasnatrafi@gamail.com)
+* ✉️  You can contact me at [Oliulhasnatrafi270@gamail.com](mailto:Oliulhasnatrafi@gamail.com)
 * 🧠  I'm learning Kotlin
 * ⚡  Food and coding👨‍💻 are the reasons to live.
 
