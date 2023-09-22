@@ -1,8 +1,5 @@
 Hi 👋 My name is oliul hasnat rafi
 ==================================
-
-passionate about mobile app development
----------------------------------------
 ### About me
 ---------------------------------------
 I am a mobile application developer. Dart, Flutter, Java, C, and C++, are the programming languages I am good at. I love to learn and build something new, productive, innovative, and creative.
